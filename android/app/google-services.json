@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951377600345",
+    "firebase_url": "https://lista-de-compras-79e25.firebaseio.com",
+    "project_id": "lista-de-compras-79e25",
+    "storage_bucket": "lista-de-compras-79e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951377600345:android:05685963fca1757c",
+        "android_client_info": {
+          "package_name": "com.example.listacompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951377600345-a53hbndc5q88823h396rcf8qkugtuto1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfPgjH-QT6swNMHiPIyW0bTKXnJjDVVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951377600345-a53hbndc5q88823h396rcf8qkugtuto1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
